@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"m",
+				"myArray"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"pa",
+				"placeholder	Attr"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"fa",
+				"fadeintext"
+			],
+			[
+				"s",
+				"square"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"get",
+				"getRandomColor"
+			],
+			[
+				"post",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"time",
+				"timeTaken"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"twe",
+				"tweetstring"
+			],
+			[
+				"b",
+				"blank"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"g",
+				"guesednumber"
+			],
+			[
+				"ma",
+				"magicword"
+			],
+			[
+				"te",
+				"textbox"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"text",
+				"textEntered"
+			],
+			[
+				"so",
+				"sometext"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"sty",
+				"Style"
+			],
+			[
+				"C",
+				"Createparagraph"
+			],
+			[
+				"bu",
+				"button	Tag"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6743,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "pi",
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/johnstone/Desktop/Site"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/php.ini",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/jquery/form.html",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/scriptgame.js",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/gamestyle.css",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/jsvariables.html",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/array.html",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/css1.html",
+		"/C/Users/johnstone/Desktop/pythonprograms/Complete web devolopment course/Exercise/Css1.html",
+		"/C/Users/johnstone/Desktop/hello world.py",
+		"/C/Users/johnstone/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/johnstone/Desktop/Desktop/Websites/Kesha/MOD Website/test.jade",
+		"/C/Users/johnstone/Desktop/Desktop/Websites/Kesha/MOD Website/test.sass",
+		"/C/Users/johnstone/Desktop/Desktop/Websites/Bootstrap/bootstrap-3.3.6/docs/examples/blog/index.html",
+		"/C/Users/johnstone/Desktop/Desktop/Websites/Bobby theme/Bobby theme/Contact us.html",
+		"/C/Users/johnstone/Desktop/Desktop/Websites/Bootstrap/bootstrap-3.3.6/dist/css/bootstrap.css",
+		"/C/Users/johnstone/AppData/Roaming/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/C/Users/johnstone/Desktop/Desktop/Websites/Bobby theme/Bobby theme/index.html",
+		"/C/Users/johnstone/Desktop/Websites/Kesha/MOD Website/example4.html",
+		"/C/Users/johnstone/Desktop/Websites/Kesha/MOD Website/example.html",
+		"/C/Users/johnstone/Desktop/Websites/First website/css/styles.css",
+		"/C/Users/johnstone/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/johnstone/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/johnstone/Desktop/Patrick Carey"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EA91E646C7F2A688276BCF18E971E372"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1893,
+								1893
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1962.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Plugin254.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
